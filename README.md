@@ -1,6 +1,6 @@
 # Arreglos y POO
 
-Este es un programa para entender el concepto o estructura de datos de los arreglos con la combinación de programación orientada a objetos.
+Este es un programa que tiene como objetivo entender el concepto o estructura de datos de los arreglos en combinación de la programación orientada a objetos.
 
 __Desarrollado:__ Eclipse
 
