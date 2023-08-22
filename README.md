@@ -5,8 +5,8 @@ Este es un programa que tiene como objetivo entender el concepto o estructura de
 __Desarrollado en:__ Eclipse
 
 __Explicación del programa__
-  Básicamente es un programa que recorre los distintos arreglos dependiendo del alumno que se elija, 
-  en ese caso se realizaran diferentes tipos de acciones para evaluar las calificaciones o manipularlas.
+Básicamente es un programa que recorre los distintos arreglos dependiendo del alumno que se elija, 
+en ese caso se realizaran diferentes tipos de acciones para evaluar las calificaciones o manipularlas.
 
 __Salida:__
 
