@@ -34,35 +34,35 @@ Alumno 10
 
 Ingresa el numero del alumno que quieras conocer: 5
 
-El promedio es:7.6099997
+El promedio es: 7.6099997
 
 La moda es 10 y se repite 2.0 veces
 
-La calificaion mayor es:10.0
+La calificaion mayor es: 10.0
 
-La calificacion menor es:3.3
+La calificacion menor es: 3.3
 
 El rango es: 6.7
 
-[1]-calif:10.0
+[1]-calif: 10.0
 
-[2]-calif:7.0
+[2]-calif: 7.0
 
-[3]-calif:5.5
+[3]-calif: 5.5
 
-[4]-calif:6.6
+[4]-calif: 6.6
 
-[5]-calif:8.0
+[5]-calif: 8.0
 
-[6]-calif:10.0
+[6]-calif: 10.0
 
-[7]-calif:3.3
+[7]-calif: 3.3
 
-[8]-calif:9.8
+[8]-calif: 9.8
 
-[9]-calif:7.3
+[9]-calif: 7.3
 
-[10]-calif:8.6
+[10]-calif: 8.6
 
 *BUSCAR CALIFICACION*
 
